@@ -1,4 +1,4 @@
-# Sistema-de-auto-Farme-V1
+# Sistema-de-auto-Farme-V1.0
 -- Script de Teleporte Sequencial Automático - 84 Posições
 local player = game.Players.LocalPlayer
 local character = player.Character or player.CharacterAdded:Wait()
